@@ -20,9 +20,9 @@ def clear():
 for y in range(0, 10):         
     messages = ["your a fuckin loser", "go fuck yourself bud", "quit ur shit you fucking junkie", "mirrors can't talk. Lucky for you, they cant laugh either.", "if I had a face like yours, I'd sue my parents.", "If I said anything to offend you it was purely intentional.", "If I throw a stick, will you go away? fucking dog", "You started at the bottom and it's been downhill ever since"]
     print("We're on time %d" % (y))
-    url = 'https://onrose.co/cryptxzz'
+    url = 'URL TO ROSE USER HERE'
 
-    driver = webdriver.Chrome("C:/Users/Carter/Desktop/chromedriver")
+    driver = webdriver.Chrome("PATH TO CHROME DRIVER HERE")
     
     driver.get(url)
     clear()
