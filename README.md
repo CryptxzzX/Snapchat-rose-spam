@@ -1,3 +1,4 @@
+# Snapchat Rose Spammer
 Spams the given link with insults
 
 
